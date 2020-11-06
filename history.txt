@@ -1,0 +1,446 @@
+    1  git config --global user.name "general"
+    2  sudo apt install git
+    3  git config --global user.name "general"
+    4  git config --global user.name "sphiwe"
+    5  git config --global user.email "sphiwe@thedigitalacademy.co.za"
+    6  show username
+    7  git config user.name
+    8  git config user.email
+    9  ls
+   10  pkg install node
+   11  yum install nodejs12
+   12  sudo apt install yum
+   13  sudo apt install nodejs
+   14  sudo apt install npm
+   15  node --version
+   16  sudo apt install nodejs
+   17  node --version
+   18  curl -sL https://deb.nodesource.com/setup_11.x | sudo -E bash -
+   19  sudo apt install curl
+   20  sudo apt install nodejs
+   21  node --version
+   22  sudo apt update
+   23  node --version
+   24  sudo apt install build-essential apt-transport-https lsb-release ca-certificates curl
+   25  node --version
+   26  curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+   27  node --version
+   28  curl -sL https://deb.nodesource.com/setup_10.x | bash -
+   29  curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+   30  sudo apt-get install -y nodejs` to install Node.js 12.x and npm
+   31  sudo apt-get install gcc g++ make
+   32  curl -sL https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+   33  sudo apt-get update && sudo apt-get install yarn
+   34  wget -qO - https://www.mongodb.org/static/pgp/server-4.2.asc | sudo apt-key add -
+   35  sudo apt-get install gnupg
+   36  wget -qO - https://www.mongodb.org/static/pgp/server-4.2.asc | sudo apt-key add -
+   37  echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu bionic/mongodb-org/4.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-4.2.list
+   38  sudo apt-get update
+   39  sudo apt-get install -y mongodb-org
+   40  sudo systemctl start mongod
+   41  sudo systemctl daemon-reload
+   42  sudo systemctl enable mongod
+   43  sudo systemctl restart mongod
+   44  mongo
+   45  sudo apt-get update
+   46  sudo apt-get install nodejs
+   47  sudo apt-get install npm
+   48  nodejs -v
+   49  cd ~
+   50  cd Desktop/
+   51  mkdir Da
+   52  mkdir Da_Projects
+   53  cd Da_Projects/
+   54  git clone https://git.thedigitalacademy.co.za/dylut2000/mern.git
+   55  ls
+   56  cd mern/
+   57  ls
+   58  cd mern/
+   59  ls 
+   60  cd be/
+   61  npm i
+   62  npm start
+   63  cd mern/
+   64  ls
+   65  cd fe/
+   66  npm i
+   67  cd ..
+   68  git checkout general
+   69  ls
+   70  cd fe/
+   71  npm i
+   72  ls 
+   73  npm i
+   74  cd ..
+   75  ls
+   76  cd fe/
+   77  npm install
+   78  cd ..
+   79  ls
+   80  cd m
+   81  ls
+   82  cd mern/
+   83  ls
+   84  npm start
+   85  npm i
+   86  ls 
+   87  cd be/
+   88  npm start
+   89  ls
+   90  cd mern/
+   91  ls
+   92  cd be/
+   93  npm i
+   94  npm start
+   95  npm audit fix
+   96  npm start
+   97  cd mern/
+   98  ls
+   99  cd fe/
+  100  npm i
+  101  npm install
+  102  yarn install
+  103  clear
+  104  npm install
+  105  npm i
+  106  /usr/bin/node /usr/bin/npm i
+  107  cd
+  108  pwd
+  109  cd Desktop/
+  110  cd Da_Projects/
+  111  cd mern/
+  112  git add .
+  113  git status
+  114  git commit -m 
+  115  git commit -m "merging changes"
+  116  git push origin general
+  117  git pull master
+  118  clear
+  119  ls
+  120  cd fe/
+  121  npm i
+  122  npm -v
+  123  npm i
+  124  cd ..
+  125  git merge master
+  126  ls
+  127  cd fe/
+  128  npm i
+  129  npm audit fix
+  130  npm start
+  131  ls
+  132  cd mern/
+  133  ls
+  134  cd be/
+  135  npm i
+  136  npm start
+  137  cd mern
+  138  git pull origin master
+  139  cd fe
+  140  git pull origin master
+  141  git branch
+  142  checkout master
+  143  git checkout master
+  144  git merge
+  145  cd ..
+  146  cd be
+  147  git pull origin master
+  148  cd ..
+  149  git status
+  150  git checkout master
+  151  git pull
+  152  cd fe
+  153  cd src
+  154  git merge
+  155  cd App
+  156  cd App.js
+  157  cd desktop
+  158  mkdir desktop
+  159  cd desktop
+  160  git clone https://git.thedigitalacademy.co.za/dylut2000/mern.git
+  161  cd mern
+  162  cd fe
+  163  npm i
+  164  npm start
+  165  cd mern
+  166  cd be 
+  167  npm i
+  168  npm start
+  169  cd ..
+  170  cd fe
+  171  npm i
+  172  npm audit fix
+  173  cd ..
+  174  git pull
+  175  git pull origin master
+  176  git pull master
+  177  git status
+  178  git branch
+  179  cd Da_Projects
+  180  cd desktop
+  181  cd Da_Projects
+  182  npm run
+  183  cd desktop
+  184  mkdir Da_Projects
+  185  git clone
+  186  git https://git.thedigitalacademy.co.za/dylut2000/mern.git
+  187  git clone https://git.thedigitalacademy.co.za/dylut2000/mern.git
+  188  clear
+  189  cd Da_Projects
+  190  git clone https://git.thedigitalacademy.co.za/dylut2000/mern.git
+  191  git branch
+  192  git checkout master
+  193  npm i
+  194  git branch
+  195  cd desktop
+  196  mkdir Da_Projects
+  197  cd desktop
+  198  cd Desktop
+  199  mkdir Da_Projects
+  200  cd Da_Projects
+  201  git clone https://git.thedigitalacademy.co.za/dylut2000/mern.git
+  202  cd mern
+  203  cd fe
+  204  git status
+  205  cd ..
+  206  git checkout general
+  207  cd mern
+  208  git checkout general
+  209  cd fe
+  210  npm i
+  211  cd ..
+  212  npm i
+  213  cd fe 
+  214  npm i
+  215  cd ..
+  216  git pull
+  217  git status
+  218  cd fe
+  219  npm i
+  220  npm start
+  221  cd ..
+  222  npm i
+  223  git status
+  224  git pull origin master
+  225  git status
+  226  git commit
+  227  git merge
+  228  npm i
+  229  cd fe
+  230  npm i
+  231  npm start
+  232  npm i
+  233  npm audit fix
+  234  npm start
+  235  cd ..
+  236  cd be
+  237  npm i
+  238  npm start
+  239  cd ..
+  240  cd fe
+  241  npm start
+  242  npm i
+  243  npm start
+  244  git status
+  245  git pull origin master
+  246  npm i
+  247  npm start
+  248  npm install @material-ui/core
+  249  npm start
+  250  npm i
+  251  npm start
+  252  cd Desktop
+  253  npx create-react-app fun
+  254  cd fun
+  255  code .
+  256  git add .
+  257  git commit -m".."
+  258  git push
+  259  git branch
+  260  git branches
+  261  git checkout general
+  262  cd Desktop
+  263  npx create-react-app mally
+  264  cd mally
+  265  code .
+  266  npm start
+  267  git add .
+  268  git commit -m"...."
+  269  git push
+  270  cd Desktop
+  271  npx create-react-app walle
+  272  cd Desktop
+  273  git clone git@github.com:Umuzi-org/Erasmus-Hadebe-606-tilde-project-tutorial-how-repo-projects-work-.git
+  274  cd Desktop
+  275  mkdir git-basic-exercises
+  276  ls -a
+  277  cd git-basic-exercises
+  278  ls -a
+  279  git init
+  280  ls -a
+  281  git status
+  282  touch READ.md
+  283  ls -a
+  284  git status
+  285  git log
+  286  git add READ.me
+  287  git reset READ.me
+  288  git reset --hard READ.md
+  289  git reset READ.md
+  290  ls -a
+  291  cd Desktop
+  292  cd git-basic-exercises
+  293  ls -a
+  294  git rm READ.md
+  295  git status
+  296  cd Desktop
+  297  mkdir git-basic-exercises
+  298  cd git-basic-exercises
+  299  ls -a
+  300  git init
+  301  ls -a
+  302  git status
+  303  touch README.md
+  304  ls -a
+  305  git status
+  306  git log
+  307  git add
+  308  git add .
+  309  git status
+  310  git rm --cached README.md
+  311  git status
+  312  git add .
+  313  git status
+  314  git commit -m"this is the first commit!"
+  315  git log
+  316  q
+  317  git checkout 2f379395961ac75ac20b1f9c09d5f35dc0c1a29b
+  318  cat README.md
+  319  ls -a
+  320  git status
+  321  git checkout master
+  322  cat README.md
+  323  cd Desktop
+  324  mkdir git-basic-exercise
+  325  cd git-basic-exercise
+  326  ls -a
+  327  git init
+  328  ls -a
+  329  git status
+  330  touch README.md
+  331  ls -a
+  332  git status
+  333  git log
+  334  git add .
+  335  git status
+  336  git rm --cached README.md
+  337  git status
+  338  git add .
+  339  git status
+  340  git commit -m"This is the initial commit!"
+  341  git log
+  342  q
+  343  nano README.md
+  344  cat README.md
+  345  git status
+  346  git add .
+  347  git commit -m"second commit"
+  348  nano README.md
+  349  git add .
+  350  git commit -m"third commit"
+  351  git log
+  352  git checkout 242a368eb5807d87539582ec86d67ffdf58bd1b8
+  353  cat README.md
+  354  git checkout master
+  355  cat README.md
+  356  git branch
+  357  git branch milkshake-flavours
+  358  git branch
+  359  git checkout milkshake-flavours
+  360  git branch
+  361  nano milkshakes.md
+  362  git status
+  363  git add .
+  364  git commit -m"added initial flavours"
+  365  git log
+  366  git checkout master
+  367  git log
+  368  git branch history
+  369  git checkout history
+  370  git log
+  371  git branch
+  372  history > history.txt
+  373  git add .
+  374  git commit -m"added history"
+  375  git log
+  376  git checkout milkshake-flavours
+  377  git log
+  378  git checkout master
+  379  nano README.md
+  380  git add .
+  381  git commit -m"random readme changes"
+  382  git checkout history
+  383  cat README.md
+  384  git rm README.md
+  385  echo "booya" > README.md
+  386  git status
+  387  git add .
+  388  git commit -m"rewrote readme"
+  389  git checkout master
+  390  ls
+  391  git log
+  392  cd Desktop
+  393  git clone https://github.com/Umuzi-org/Erasmus-Hadebe-606-tilde-project-tutorial-how-repo-projects-work-.git
+  394  cd Erasmus-Hadebe-606-tilde-project-tutorial-how-repo-projects-work-
+  395  ls
+  396  ls -a
+  397  cd Desktop
+  398  mkdir git-basic-exercise
+  399  cd git-basic-exercise
+  400  ls -a
+  401  git init
+  402  ls -a
+  403  git status
+  404  touch README.md
+  405  ls -a
+  406  git status
+  407  git log
+  408  git add .
+  409  git status
+  410  git rm --cached README.md
+  411  git status
+  412  git add .
+  413  git commit -m"initial commit"
+  414  git log
+  415  nano README.md
+  416  cat README.md
+  417  git stats
+  418  git status
+  419  git add .
+  420  git commit -m"second commit"
+  421  nano README.md
+  422  git add .
+  423  git commit -m"third commit"
+  424  git log
+  425  git checkout 67912f1978e4ce2cf0e1474142eb55ff3b7c5126
+  426  cat README.md
+  427  git checkout master
+  428  cat README.md
+  429  git branch
+  430  git branch milkshake-flavours
+  431  git branch
+  432  git checkout milkshake-flavours
+  433  git branch
+  434  nano milkshakes.md
+  435  git status
+  436  git add .
+  437  git commit -m"added initial flavours"
+  438  git log
+  439  git checkout master
+  440  git log
+  441  git status
+  442  git branch history
+  443  git checkout history
+  444  git log
+  445  git branch
+  446  history > history.txt
